@@ -1,14 +1,13 @@
 <h1 align="center">Hello there👋 Im dkri3c1</h1>
-<h3 align="center">你可以叫我 dkri3c1 dkriecl Fan</h3>
+<h3 align="center">A retired Cyber Security Player in TCIVS CSE </h3>
 
 ----
 
 
-## 😺關於我
-* 就讀台中高工資訊科
-* 資訊科112屆科學會機動組組長
-* 喜歡研究網路安全的小小孩
-* 喜歡數位鑑識的怪人
-* 正努力讓自己的人生不要過的那麼空虛
+## 😺 About me
+* Study Computer Science in Taichung Municipal Taichung Industrial Senior High School (TCIVS)
+* Cyber Security Speakers in Student Club's Association of Information in Central Taiwan (SCAICT)
+* Enjoy learning Cyber Security skills 😸 
+* Interesting in Digital Forensics 🫶
 
 
