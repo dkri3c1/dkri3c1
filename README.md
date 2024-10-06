@@ -7,5 +7,5 @@
 
 - 🚩 Junior CTF Player~~
 - ⚔️ Forensics X Pwn
-- 🐒 m0nk3y_1n_tc1vs 🐄 B33F 50μP @dkri3c1
-- 🐱 ![](https://dkri3c1.github.io/)
+- 🐒 TEAM: m0nk3y_1n_tc1vs 🐄 B33F 50μP @dkri3c1
+- 🐱 BLOG : https://dkri3c1.github.io/
