@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋 I'm dkri3c1</h1>
-<h3 align="center">A retired Cyber Security Player in TCIVS CSE </h3>
+<h3 align="center">Just a Cyber Security Player in TCIVS CSE </h3>
 
 ----
 
