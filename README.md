@@ -6,7 +6,7 @@
 ## 😺 About me
 
 - 🚩 Junior CTF Player~~
-- ⚔️ Forensics X Pwn X Pentest
+- ⚔️ Pentest
 - 🪓 TEAM: 💻💥 (RCE)RemoteComputerExplosion 🐄 B33F 50μP  ☕ ICEDTEA
  @dkri3c1
 - 🏫 Taichung Municipal Taichung Industrial High School - Computer Science
